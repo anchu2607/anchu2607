@@ -1,3 +1,4 @@
+![logo](https://github.com/anchu2607/anchu2607/blob/main/image.png)
 <h1 align="center">Hi 👋, I'm Anchal Goyal</h1>
 <h3 align="center">A passionate data analyst from India, specializing in SQL, Python, Power BI, and data-driven insights.</h3>
 
