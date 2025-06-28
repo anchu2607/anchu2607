@@ -1,18 +1,18 @@
 ![logo](https://github.com/anchu2607/anchu2607/blob/main/image.png)
 <h1 align="center">Hi 👋, I'm Anchal Goyal</h1>
-<h3 align="center">A passionate data analyst from India, specializing in SQL, Python, Power BI, and data-driven insights.</h3>
+<h3 align="center">Aspiring Data Analyst | Passionate about transforming raw data into actionable insights.</h3>
 
 <img align="right" alt="Analyst" width="400" src="https://www.bing.com/th/id/OGC.fa218b27d840abf8ec2e4823b7383e22?pid=1.7&rurl=https%3a%2f%2fuser-images.githubusercontent.com%2f74038190%2f249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif&ehk=E0raYBOhl1csmBO1%2bCe%2bYeam4xFoCQWCdAO9lnVVZx4%3d">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anchu2607&label=Profile%20views&color=0e75b6&style=flat" alt="anchu2607" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning & Artificial Intelligence**
+- 🌱 I’m currently learning **Building impactful dashboards & advanced analytics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anchu2607](https://github.com/anchu2607)
 
 - 📝 I regularly post my Art & Craft on [https://www.instagram.com/art_business_collaborative/](https://www.instagram.com/art_business_collaborative/)
 
-- 💬 Ask me about **Python, SQL, TensorFlow, Power BI/Tableau, and Advance Excel**
+- 💬 Ask me about **SQL, Power BI/Tableau, Advance Excel, Python(Pandas, Matplotlib)**
 
 - 📫 How to reach me **anchal9625g@gmail.com**
 
