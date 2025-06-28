@@ -8,7 +8,14 @@
 
 - 🌱 I’m currently learning **Building impactful dashboards & advanced analytics**
 
+- 🚀 Current Goal: **Transitioning into a full-time Data Analyst role while sharing practical analytics projects**
+
 - 👨‍💻 All of my projects are available at [https://github.com/anchu2607](https://github.com/anchu2607)
+
+- 📂 Featured Projects:
+- **HR Analytics Dashboard in Excel** – Tracking attrition, salary analysis, and department performance.
+- **Hospital Analytics Power BI Dashboard** – Patient trends, department-wise analysis, and resource utilization.
+- **SQL Sales Analysis** – Query-based insights on sales data for business decisions.
 
 - 📝 I regularly post my Art & Craft on [https://www.instagram.com/art_business_collaborative/](https://www.instagram.com/art_business_collaborative/)
 
