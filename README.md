@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **anchal9625g@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/anchu2607/My-Resume.git](https://github.com/anchu2607/My-Resume.git)
+- 📄 Know about my experiences [Anchal Goyal.pdf](Anchal Goyal.pdf)
 
 - ⚡ Fun fact **I think I'm Cute**
 
